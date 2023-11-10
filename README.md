@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yilmazmuharrem
 - 👀 I’m interested in WEB DEVOLOPMENT
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning .NET , Angular
 - 📫 muharremyilmaz656@gmail.com
 
 <!---
